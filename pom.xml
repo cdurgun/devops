@@ -26,7 +26,7 @@
 		<jacoco.version>0.7.9</jacoco.version>
 	</properties>
 
-	<distributionManagement>
+<!--	<distributionManagement>
 		<repository>
 			<id>release</id>
 			<name>releases</name>
@@ -38,7 +38,7 @@
 			<url>http://localhost:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
-
+-->
 
 	<scm>
 		<connection>scm:git:git@github.com:cdurgun/devops.git</connection>
